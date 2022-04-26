@@ -1,0 +1,43 @@
+.main {
+    display: flex;
+    height: 50vh;
+
+}
+
+.main-left {
+    flex: 1;
+}
+
+.main-right {
+    flex: 1;
+}
+
+.main-left-wrap {
+    padding: 55px;
+}
+
+.introduction {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.name {
+    font-size: 60px;
+}
+
+.title {
+    height: 50px;
+}
+
+.title-wrap {
+    height: 100%;
+}
+
+.title-1 {
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    display: flex;
+    align-items: center;
+}
