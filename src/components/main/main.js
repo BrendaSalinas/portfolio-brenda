@@ -1,5 +1,7 @@
+import React from 'react';
 import './main.css';
 import webdev from '../../img/webdev.jpeg'
+
 const Main = () => {
     return (
         <div className = 'main'>

@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
-import Footer from './components/footer/Footer.js';
 import Main from "./components/main/Main.js";
+import ProjectList from './components/projectList/ProjectList.js';
+import Footer from './components/footer/Footer.js';
 
 const App = () => {
   return <div> 
       <Main/>
+      <ProjectList/>
       <Footer/> 
     </div>;
 };
