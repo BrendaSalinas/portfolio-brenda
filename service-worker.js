@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/portfolio-brenda/precache-manifest.127627736bdcaa2523dadc2029f98974.js"
+  "/portfolio-brenda/precache-manifest.36429ff718a72b9fb243d77cff13ac9d.js"
 );
 
 workbox.clientsClaim();
